@@ -1,5 +1,5 @@
 # Obstacle-Detection-For-Visually-Impaired-People
-Features:
-Detection of obstacles in front of the user
-Estimation of distance between closest obstacle and user
-Warning of user via auditory information
+Features: <br/>
+___ Detection of obstacles in front of the user <br/>
+___ Estimation of distance between closest obstacle and user <br/>
+___ Warning of user via auditory information <br/>
